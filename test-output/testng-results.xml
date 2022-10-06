@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T16:07:53 IST" name="Suite" finished-at="2022-08-25T16:07:53 IST" duration-ms="97">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T16:07:53 IST" name="Music" finished-at="2022-08-25T16:07:53 IST" duration-ms="51">
+      <class name="test.TestNGexp2">
+        <test-method signature="Violin()[pri:0, instance:test.TestNGexp2@48974e45]" started-at="2022-08-25T16:07:53 IST" name="Violin" finished-at="2022-08-25T16:07:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Violin -->
+      </class> <!-- test.TestNGexp2 -->
+      <class name="test.TestNGexp1">
+        <test-method is-config="true" signature="Music()[pri:0, instance:test.TestNGexp1@22e357dc]" started-at="2022-08-25T16:07:53 IST" name="Music" finished-at="2022-08-25T16:07:53 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Music -->
+        <test-method is-config="true" signature="everymethod()[pri:0, instance:test.TestNGexp1@22e357dc]" started-at="2022-08-25T16:07:53 IST" name="everymethod" finished-at="2022-08-25T16:07:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- everymethod -->
+        <test-method signature="Demo()[pri:0, instance:test.TestNGexp1@22e357dc]" started-at="2022-08-25T16:07:53 IST" name="Demo" finished-at="2022-08-25T16:07:53 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="draw()[pri:0, instance:test.TestNGexp1@22e357dc]" started-at="2022-08-25T16:07:53 IST" name="draw" finished-at="2022-08-25T16:07:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- draw -->
+        <test-method is-config="true" signature="everymethod()[pri:0, instance:test.TestNGexp1@22e357dc]" started-at="2022-08-25T16:07:53 IST" name="everymethod" finished-at="2022-08-25T16:07:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- everymethod -->
+      </class> <!-- test.TestNGexp1 -->
+    </test> <!-- Music -->
+    <test started-at="2022-08-25T16:07:53 IST" name="Dance" finished-at="2022-08-25T16:07:53 IST" duration-ms="4">
+      <class name="test.TestNGexp3">
+        <test-method signature="Dance()[pri:0, instance:test.TestNGexp3@2a54a73f]" started-at="2022-08-25T16:07:53 IST" name="Dance" finished-at="2022-08-25T16:07:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dance -->
+      </class> <!-- test.TestNGexp3 -->
+      <class name="test.TestNGexp1">
+        <test-method is-config="true" signature="Gohome()[pri:0, instance:test.TestNGexp1@22e357dc]" started-at="2022-08-25T16:07:53 IST" name="Gohome" finished-at="2022-08-25T16:07:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gohome -->
+      </class> <!-- test.TestNGexp1 -->
+    </test> <!-- Dance -->
+  </suite> <!-- Suite -->
+</testng-results>
